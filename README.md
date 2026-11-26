@@ -1,4 +1,2 @@
-## * * Orgulho Galego
-
-* * A [Fenestra] (https://github.com/naykkalak/fenestra-sddm/blob/main/README.md) style login screen for SDDM, part of the Orgulho Galego for KDE Plasma.
-[img](https://imgur.com/vo7olYH)
+ * * Orgulho de ser galego
+Fork de Fenestra 
