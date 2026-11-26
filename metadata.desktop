@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=OrgulloGalego
+Description=Windows 11 style login screen for SDDM (OrgullGalego, Wayland)
+Author=Grupoed2k
+License=GPL-3.0
+Type=sddm-theme
+Version=1.0.1
+Website=https://github.com/Grupoed2k/ORGULHO-GALEGO
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=OrgulloGalego
+Theme-API=2.0
+QtVersion=6

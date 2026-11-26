@@ -1,0 +1,16 @@
+ORGULLO GALEGO=============================================
+
+The KDE Store installs the theme only. Two features need one more file:
+
+  - the on-screen keyboard
+  - the network indicator (without it, it always shows "no connection")
+
+Recommended: use the installer from GitHub, which sets everything up
+(plus random backgrounds and a shortcut to add your own):
+
+  https://github.com/Grupoed2k/ORGULHO-GALEGO
+  sudo bash install.sh
+
+
+
+ORGULLO GALEGO is made for SDDM on Wayland (KDE Plasma 6).
